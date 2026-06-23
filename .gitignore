@@ -1,0 +1,10 @@
+.*
+!.gitignore
+!.gitattributes
+
+cropped_people/*
+Datasets/*
+yolo26n.pt
+
+*.mp4
+*.zip
